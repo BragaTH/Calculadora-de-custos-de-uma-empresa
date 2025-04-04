@@ -102,3 +102,4 @@ def calcular_lucro():
             print ("Digite apenas 's' para Sim ou 'n' para Não. ")
         
 calcular_lucro()
+# :D
